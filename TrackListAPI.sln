@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackListAPI", "TrackListAPI.csproj", "{87A06C8C-24C7-4A38-8BC1-8234C2D714BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A06C8C-24C7-4A38-8BC1-8234C2D714BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A06C8C-24C7-4A38-8BC1-8234C2D714BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A06C8C-24C7-4A38-8BC1-8234C2D714BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A06C8C-24C7-4A38-8BC1-8234C2D714BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC9179F-7913-4AD1-BCF7-2B6B0B969985}
+	EndGlobalSection
+EndGlobal
